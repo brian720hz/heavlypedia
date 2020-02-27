@@ -1,4 +1,4 @@
-# heavlypedia v.1
+# Heavlypedia v.1
 TA Capstone
 
 Kekurangan :
